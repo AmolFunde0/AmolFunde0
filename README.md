@@ -196,13 +196,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amolfunde" target="_blank">
+  <a href="https://www.linkedin.com/in/amol-funde-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AmolFunde0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:amolfunde0@gmail.com" target="_blank">
+  <a href="mailto:amolfunde01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
