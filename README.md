@@ -111,8 +111,10 @@
 
 ## 🚀 Projects
 
-### 🏥 Hospital Management System (AI Integrated)
+### 🏥 [Hospital Management System (AI Integrated)](https://github.com/AmolFunde0/Hospital-Management-System)
 `Core Java` `Angular` `Spring Boot` `PostgreSQL` `Ollama (LlaMA3)`
+
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmolFunde0/Hospital-Management-System)
 
 > A full-stack Hospital Management System with AI-powered chatbot integration
 
@@ -125,8 +127,10 @@
 
 ---
 
-### 📝 Quiz Application — Microservices Architecture
+### 📝 [Quiz Application — Microservices Architecture](https://github.com/AmolFunde0/quiz-application)
 `Spring Boot` `Spring Cloud` `Eureka` `API Gateway` `Feign Client` `MySQL`
+
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmolFunde0/quiz-application)
 
 > A distributed Quiz Application built with Microservices architecture
 
@@ -139,8 +143,10 @@
 
 ---
 
-### 🏦 Banking Application with Fraud Detection
+### 🏦 [Banking Application with Fraud Detection](https://github.com/AmolFunde0/fraud-detection-banking-app)
 `Java` `Spring Boot` `Microservices` `Apache Kafka` `Angular` `MySQL` `JWT` `Spring Security`
+
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmolFunde0/fraud-detection-banking-app)
 
 > A full-stack banking application with event-driven fraud detection system
 
